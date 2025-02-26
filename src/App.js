@@ -249,8 +249,8 @@ const projects = [
     image: et,
     technologies: ["HTML", "CSS", "JavaScript", "React.js", "GitHub"],
     description: "A Powerful yet simple tool to track daily expenses and improve financial habits.",
-    link: "Under Development",
-    github: "https://github.com/hey-raghav/frontend/tree/main/expense-tracker",
+    link: "https://expense-tracker-kappa-woad.vercel.app/",
+    github: "https://github.com/hey-raghav/fullstack_MERN",
     features: [
       { text: "Dynamic Web App", emoji: "🪄" },
       { text: "API Data Fetching", emoji: "⚡" },
